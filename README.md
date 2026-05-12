@@ -24,3 +24,7 @@ Ball-by-ball analysis of IPL 2026 batting performance using Python and Power BI.
 
 - `notebooks/analysis.py` — data cleaning and analysis script
 - `output/` — processed CSVs used in Power BI dashboard
+
+## Dashboard Preview
+
+![IPL 2026 Dashboard](images/dashboard.png)

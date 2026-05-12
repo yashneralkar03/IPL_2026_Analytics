@@ -27,4 +27,4 @@ Ball-by-ball analysis of IPL 2026 batting performance using Python and Power BI.
 
 ## Dashboard Preview
 
-![IPL 2026 Dashboard](images/dashboard.png)
+![IPL 2026 Dashboard](images/dashboard.png.png)
